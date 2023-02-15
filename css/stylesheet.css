@@ -4,4 +4,18 @@ body {
   h1 {
     color: #00008B; /* DarkBlue color */
   }
-  
+  nav {
+    background-color: #d3d3d3;
+    text-align: center;
+  }
+  <!-- index.html -->
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+<style>
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+  }
+</style>
+
+<!-- courses.html and school.html -->
+<link href="stylesheet.css" rel="stylesheet">
+
